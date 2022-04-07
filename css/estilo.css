@@ -4,7 +4,11 @@ body{
 
 .img_topo{
     width: 125%;
-    height: 50%;
+    height: 120%;
+}
+
+.img_fim{
+    width: 130%;
 }
 
 figure{
@@ -12,11 +16,12 @@ figure{
 }
 
 h1{
-    font-size: 140%;
+    font-size: 250%;
     text-align: center;
 }
 
 p{
-    font-size: 120%;
-    text-align: center;
+    font-size: 150%;
+    text-align: justify;
+    text-indent: 5%;
 }
