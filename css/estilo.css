@@ -3,9 +3,19 @@ body{
 }
 
 .img_topo{
-    width: 75%;
+    width: 125%;
 }
 
 figure{
+    text-align: center;
+}
+
+h1{
+    font-size: 140%;
+    text-align: center;
+}
+
+p{
+    font-size: 120%;
     text-align: center;
 }
